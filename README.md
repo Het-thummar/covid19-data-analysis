@@ -32,14 +32,18 @@ To run this project, you'll need to install the following dependencies:
 5. **User Registration and Login**: Users can register, log in, and track their search history.
 6. **Database Integration**: The system is backed by a MySQL database to store user information and search history.
 
-## Requirements
 
-- Python 3.x
-- `requests` library (to fetch data from the COVID-19 API)
-- `matplotlib` library (for plotting graphs)
-- `mysql-connector` library (to connect to MySQL database)
 
-To install the required libraries, you can run the following:
+## How to use
 
-```bash
-pip install requests matplotlib mysql-connector
+### Step 1: Clone the repository
+
+### Step 2: Install dependencies
+
+### Step 3: Create Database
+
+### Step 4: Run the application
+
+### Step 5: Login or Register
+
+### Step 6: Search for cities and view data
